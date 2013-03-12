@@ -2,6 +2,7 @@ mkdir -p ~/.vim/autoload ~/.vim/bundle; \
 curl -Sso ~/.vim/autoload/pathogen.vim \
     https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
 echo "call pathogen#infect()
+set hlsearch
 syntax on
 filetype plugin indent on
 ".vimrc
