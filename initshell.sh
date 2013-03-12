@@ -8,3 +8,5 @@ git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(ye
 git clone git://github.com/oscarh/vimerl.git
 git clone git://github.com/myusuf3/numbers.vim.git
 git clone git://github.com/kchmck/vim-coffee-script.git
+git clone https://github.com/hallettj/jslint.vim.git
+git clone https://github.com/majutsushi/tagbar.git
