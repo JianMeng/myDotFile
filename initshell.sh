@@ -22,3 +22,5 @@ git clone https://github.com/majutsushi/tagbar.git
 cd ~/.vim/bundle
 git clone https://github.com/maksimr/vim-jsbeautify.git
 cd vim-jsbeautify && git submodule update --init --recursive
+nnoremap <F3> :NumbersToggle<CR>
+nnoremap <F4> :NumbersOnOff<CR>
