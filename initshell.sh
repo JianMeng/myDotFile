@@ -10,3 +10,6 @@ git clone git://github.com/myusuf3/numbers.vim.git
 git clone git://github.com/kchmck/vim-coffee-script.git
 git clone https://github.com/hallettj/jslint.vim.git
 git clone https://github.com/majutsushi/tagbar.git
+cd ~/.vim/bundle
+git clone https://github.com/maksimr/vim-jsbeautify.git
+cd vim-jsbeautify && git submodule update --init --recursive
